@@ -7,5 +7,5 @@ The provided "GBA blueprint.dxf" file contains a project created using QCAD that
 Here are a few screenshots of the project:
 
 <p align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Nxs_NSdR2G6Ovje_lMPdkgHaHa%26pid%3DApi&f=1" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/79028233/107864670-873b8600-6e56-11eb-86ec-386deb39c09b.png" width="904" title="hover text">
 </p>
