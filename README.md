@@ -8,5 +8,4 @@ Here are a few screenshots of the project:
 
 <p align="center">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Nxs_NSdR2G6Ovje_lMPdkgHaHa%26pid%3DApi&f=1" width="350" title="hover text">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Nxs_NSdR2G6Ovje_lMPdkgHaHa%26pid%3DApi&f=1" width="350" alt="accessibility text">
 </p>
