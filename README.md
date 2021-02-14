@@ -13,6 +13,10 @@ The provided "GBA blueprint.dxf" file contains a project created using QCAD that
 Here are a few screenshots of the project:
 
 <p align="center">
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flive.staticflickr.com%2F3902%2F14707282753_e5e0a5eb15_n.jpg&f=1&nofb=1" width="160" title="this is a general view of the PCB">
+</p>  
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/79028233/107864670-873b8600-6e56-11eb-86ec-386deb39c09b.png" width="904" title="this is a general view of the PCB">
 </p>  
     The yellow circles represent the two pads that connect to the speaker.
