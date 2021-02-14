@@ -3,6 +3,8 @@
 This repository shares a "blueprint" of the GBA SP PCB.
 Plase have in mind that there may be errors on the measurements taken.
 
+**All measurements are in milimeters [mm]**
+
 The provided "GBA blueprint.dxf" file contains a project created using QCAD that has a sketch of the GBA SP's PCB.
 Here are a few screenshots of the project:
 
