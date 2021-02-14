@@ -9,7 +9,7 @@ Here are a few screenshots of the project:
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79028233/107864670-873b8600-6e56-11eb-86ec-386deb39c09b.png" width="904" title="this is a general view of the PCB">
 </p>  
-  -The yellow circles represent the two pads that connect to the speaker.
+    The yellow circles represent the two pads that connect to the speaker.
 
 
 <p align="center">
