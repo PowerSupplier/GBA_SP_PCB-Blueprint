@@ -1,5 +1,9 @@
 # GBA_SP_PCB-Blueprint
 
+<p align="left">
+  <img src="https://cdn11.bigcommerce.com/s-ymgqt/images/stencil/175x175/products/31082/36424/GBA-SP-Blue__01031.1497461843.jpg?c=2" width="175" title="vertical distances">
+</p>
+
 This repository shares a "blueprint" of the GBA SP PCB.
 Plase have in mind that there may be errors on the measurements taken.
 
